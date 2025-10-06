@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(255, 247, 230);
+  font-family: arial;
+}
+
+h1 {
+  text-align: center;
+  font-family: georgia;
+}
+
+h3 {
+	font-family: georgia;
+    text-indent: 10%;
+    margin: 2px;
+}
+
+hr {
+  width: 80%;
+}
+
+#content {
+	width: 100%;
+    overflow: hidden;
+}
+
+#leftpart {
+	width: 48%;
+    float: left;
+}
+
+#rightpart {
+	margin-left: 49%;
+}
+
+.menubox {
+	margin: 18px;
+    padding: 8px;
+    background-color: rgb(255, 237, 199);
+    border-radius: 20px;
+}
+
+#footer {
+	margin: 18px;
+    padding: 8px;
+    background-color: rgb(255, 237, 199);
+    border-radius: 20px;
+}
